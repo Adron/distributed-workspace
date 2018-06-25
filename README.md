@@ -6,5 +6,5 @@ Pull all the images first:
 
 Then run the various options for the particular environment to run locally.
 
-` docker-compose -f docker-compose.yml -f docker-compose.opscenter.yml -f docker-compose.studio.yml up -d --scale node=2
+`docker-compose -f docker-compose.yml -f docker-compose.opscenter.yml -f docker-compose.studio.yml up -d --scale node=2
 
